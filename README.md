@@ -2,15 +2,19 @@
 
 ## 🇺🇦 Опис проекту
 
-Телефонна книга - це React-додаток для управління контактами, розроблений з використанням сучасних технологій та трендових кольорів 2025 року. Додаток дозволяє користувачам зберігати, видаляти та фільтрувати контакти.
+Телефонна книга - це React-додаток для управління контактами, розроблений з
+використанням сучасних технологій та трендових кольорів 2025 року. Додаток
+дозволяє користувачам зберігати, видаляти та фільтрувати контакти.
 
 ### Основні функції:
+
 - Додавання нових контактів з ім'ям та номером телефону
 - Видалення існуючих контактів
 - Фільтрація контактів за ім'ям
 - Збереження контактів у локальному сховищі браузера
 
 ### Технології:
+
 - React
 - Redux Toolkit для управління станом
 - Redux Persist для збереження даних
@@ -23,15 +27,19 @@
 
 ## 🇬🇧 Project Description
 
-Phone Book is a React application for contact management, developed using modern technologies and trendy colors of 2025. The application allows users to store, delete, and filter contacts.
+Phone Book is a React application for contact management, developed using modern
+technologies and trendy colors of 2025. The application allows users to store,
+delete, and filter contacts.
 
 ### Key Features:
+
 - Add new contacts with name and phone number
 - Delete existing contacts
 - Filter contacts by name
 - Store contacts in browser's local storage
 
 ### Technologies:
+
 - React
 - Redux Toolkit for state management
 - Redux Persist for data persistence
@@ -54,7 +62,3 @@ npm install
 # Run the application | Запустити додаток
 npm run dev
 ```
-
-## Screenshots | Скріншоти
-
-_Add your screenshots here | Додайте ваші скріншоти тут_
